@@ -1,7 +1,6 @@
 import './styles/App.css';
 import { NavLink } from 'react-router-dom';
 import Routes from './routes';
-import Start from './pages/start';
 
 function App() {
   return (
